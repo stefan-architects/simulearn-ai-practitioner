@@ -1,0 +1,20 @@
+Reasoning: [REDACTED].
+
+To calculate a 15% tip on a $47.50 dinner, follow these steps:
+
+1. **Convert the percentage to a decimal**:  
+   15% = 0.15  
+
+2. **Multiply the dinner cost by the decimal**:  
+   $47.50 × 0.15 = **$7.125**  
+
+3. **Round to the nearest cent** (since currency uses cents):  
+   $7.125 → **$7.13**  
+
+### Final Answer:  
+A 15% tip on a $47.50 dinner is **$7.13**.  
+
+---
+
+**Optional: Total including tip**  
+$47.50 (dinner) + $7.13 (tip) = **$54.63**
