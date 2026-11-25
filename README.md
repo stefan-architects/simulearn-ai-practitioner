@@ -7,11 +7,11 @@ This repository is a continually evolving collection of notes, labs, reflections
 The following table tracks my progress through the AWS SimuLearn learning plan.
 | Status | Folder | Description |
 |----------|----------|-------------|
-| *In Progress* | [cloud-computing-essentials](cloud-computing-essentials)| Core cloud computing concepts, AWS infrastructure, and service fundamentals |
-| *In Progress* | [cloud-first-steps](cloud-first-steps)|  | Introduction to AWS Cloud concepts, navigation, and foundational services. |
+| **Completed** | [cloud-computing-essentials](cloud-computing-essentials)| Core cloud computing concepts, AWS infrastructure, and service fundamentals |
+| **Completed** | [cloud-first-steps](cloud-first-steps)|  | Introduction to AWS Cloud concepts, navigation, and foundational services. |
 | **Completed** | [bedrock-playground-exploration](./bedrock-playground-exploration/) | AWS Bedrock model testing and prompt experimentation |
 | *In Progress* | [generate-code-for-a-webpage](./generate-code-for-a-webpage/) | AI-assisted webpage code generation project |
-| *Planned* | [get-started-with-generative-ai](./get-started-with-generative-ai/) | Introduction to generative AI concepts and workflows |
+| *In Progress* | [get-started-with-generative-ai](./get-started-with-generative-ai/) | Introduction to generative AI concepts and workflows |
 | *Planned* | [secure-conversational-ai-with-guardrails](./secure-conversational-ai-with-guardrails/) | Foundational generative AI learning and hands-on exercises |
 
 ## 🛠️ AWS Services & Technologies
