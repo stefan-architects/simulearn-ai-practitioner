@@ -32,22 +32,9 @@ An island stabilization team wants to improve the reliability and availability o
 - Strengthened cloud solution design, technical decision-making, and problem-solving skills through the AWS SimuLearn simulation.
 
 #### Amazon EC2 Instance Deployment
-
-![Amazon EC2 Instance Deployment](./ec2_instance_deployment.png)
+![Amazon EC2 Instance Deployment](./ec2_instance_deployment.jpeg)
 
 *Figure: Amazon EC2 instance deployment demonstrating the configuration of cloud-based computing resources.*
-
-#### Multi-Availability Zone Architecture
-
-![Multi-AZ Deployment](./ec2_multi_az_deployment.png)
-
-*Figure: Amazon EC2 instances distributed across multiple Availability Zones within the same AWS Region to improve availability and fault tolerance.*
-
-#### AWS Cloud Infrastructure
-
-![AWS Cloud Infrastructure](./aws_cloud_infrastructure.png)
-
-*Figure: AWS infrastructure demonstrating the use of EC2 instances and Availability Zones to support a resilient computing environment.*
 
 ### 🌎 Real-World Applications
 - Deploying highly available business applications.
